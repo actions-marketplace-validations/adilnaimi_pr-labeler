@@ -1,5 +1,5 @@
-name: 'PR-Labeler'
-description: 'Automatically label new pull requests based on the paths of files being changed'
+name: 'pr-auto-abeler'
+description: 'Temporary fork until this PR gets merged https://github.com/actions/labeler/pull/203'
 author: 'GitHub'
 inputs:
   repo-token:
