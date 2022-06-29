@@ -1,4 +1,4 @@
-name: 'pr-auto-abeler'
+name: 'pr-auto-labeler'
 description: 'Temporary fork until this PR gets merged https://github.com/actions/labeler/pull/203'
 author: 'GitHub'
 inputs:
